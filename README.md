@@ -10,10 +10,12 @@ then compared to the total scores from other users, and the one with the closest
 compatible friend.
 
 ## Technology Used
+
     * Node.js
     * Express
 
 ## Installation
+
     * To install this application:
         * Clone the repository using: git clone git@github.com:JenHarden/FriendFinder.git
         * Navigate to folder where the application was cloned.
