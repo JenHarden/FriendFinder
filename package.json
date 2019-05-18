@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder uses a ten question survey to match someone to a new friend.  The ten questions have values that range \r from 1 (strongly disagree) to 5 (strongly agree) that, once finished, will yield a total score.  The total score is \r then compared to the total scores from other users, and the one with the closest match will be suggested as the most\r compatible friend.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenHarden/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenHarden/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/JenHarden/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "path": "^0.12.7"
+  }
+}
