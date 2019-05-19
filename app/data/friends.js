@@ -1,7 +1,7 @@
 
 // Holds the friends data
 
-var userData = [
+var friends = [
     {
         "name": "Gerard",
         "photo": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
@@ -46,4 +46,4 @@ var userData = [
 
 // Makes this data usable in other files
 
-module.exports = userData;
+module.exports = friends;
